@@ -21,3 +21,25 @@ pnpm create next-app -- --example basic-css basic-css-app
 ```
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+
+
+COMO RODAR O PROJETO BAIXADO
+
+### npm install
+
+Rodar o projeto
+### npm run dev
+
+
+SEQUENCIA PARA CRIAR O PROJETO
+Criar o arquivo package
+### npm init
+
+Criar o projeto com Next.js
+### npm install next react react-dom
+
+Rodar o projeto 
+### npm run dev
+
+Acessar o projeto no navegador
+### http://localhost:3000
